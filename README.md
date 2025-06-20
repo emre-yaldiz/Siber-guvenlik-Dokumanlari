@@ -13,7 +13,7 @@ Dökümanlar, siber güvenlik, ağ topolojisi, cihaz işlevleri ve temel network
    - IoT ve endüstriyel cihazların temel tanımları ve yapısal özellikleri
 4.	**Ara Cihaz.pdf**
    - Switch, Router, Modem, Access Point, Firewall, Hub, Load Balancer, Proxy Server, IDS/IPS gibi ağ cihazlarının işlevleri, protokolleri ve OSI katmanlarına göre sınıflandırılması
-5. **Referans Modelleri.pdf**
+5.	**Referans Modelleri.pdf**
    - OSI ve TCP/IP ağ referans modellerinin katmanları, bu katmanlarda çalışan cihazlar, ortamlar ve kullanılan protokoller hakkında özet bilgiler.
 
 ## Kullanım
